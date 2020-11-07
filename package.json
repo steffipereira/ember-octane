@@ -60,5 +60,9 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.16.2"
   }
 }
